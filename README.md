@@ -1,5 +1,3 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
-
 # Dicee
 
 ## Goal
@@ -25,7 +23,9 @@ I made a Las Vegas dice app. I made the die roll at the press of a button. With 
 
 
 
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+>This project is part of the **iOS Development Bootcamp course** on **Udemy** by **Angela Yu**. Check the course at [www.appbrewery.co](https://www.appbrewery.co/)
 
-![End Banner](Documentation/readme-end-banner.png)
-
+<img width="416" alt="Screenshot 2021-08-25 at 7 42 08 PM" src="https://user-images.githubusercontent.com/56184525/130806724-94892e09-a215-4e58-9f12-2fbee84e9213.png">
+<img width="394" alt="Screenshot 2021-08-25 at 7 42 13 PM" src="https://user-images.githubusercontent.com/56184525/130806737-50905edd-8682-4882-a30f-916e8923256f.png">
+<img width="757" alt="Screenshot 2021-08-25 at 7 42 31 PM" src="https://user-images.githubusercontent.com/56184525/130806757-3f3844e1-fed5-412d-b703-97127958722c.png">
+<img width="745" alt="Screenshot 2021-08-25 at 7 42 36 PM" src="https://user-images.githubusercontent.com/56184525/130806765-9adbaccc-11f1-48eb-8496-9ac603451b49.png">
